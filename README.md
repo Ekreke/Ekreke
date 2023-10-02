@@ -1,7 +1,6 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnBrown20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnBrown20)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnBrown20&hide=stars,issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnBrown20&layout=compact)
 
 
 <!--
