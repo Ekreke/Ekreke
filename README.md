@@ -1,6 +1,6 @@
 ### Hi there 👋
 It's Ekreke
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://john-brown20-johnbrown20s-projects.vercel.app/api?username=JohnBrown20&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/JohnBrown20/github-readme-stats"><img align="center" src="https://john-brown20-johnbrown20s-projects.vercel.app/api/top-langs/?username=JohnBrown20&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JohnBrown20&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/JohnBrown20/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnBrown20&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
