@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://readme-hpyjb4lri-johnbrown20s-projects.vercel.app/api/top-langs/?username=Ekreke&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://readme-eight-delta.vercel.app/api/top-langs/?username=Ekreke&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
